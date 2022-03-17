@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://meta.vn/Data/image/2021/08/20/hoa-hong-den-3.jpg</item>
+        <item>https://hungthinhgarden.com/wp-content/uploads/2017/09/HOA-HONG-XANH-1.jpg</item>
+        <item>https://vuonmattroi.com/wp-content/uploads/2021/05/ve-dep-hut-hon-cua-hoa-hong-trang-khien-bao-nguoi-me-man.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://cdn.tgdd.vn/Files/2021/04/16/1343756/tim-hieu-giong-cho-golden-nguon-goc-dac-diem-cach-nuoi-bang-gia-202104160051027454.jpg</item>
+        <item>https://tunglocpet.com/wp-content/uploads/2020/11/nuoi-alaska-con-fb-thumb.jpg</item>
+        <item>https://huanluyenchosieutoc.com/wp-content/uploads/2021/12/phoc_soc1.jpg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://channel.mediacdn.vn/thumb_w/640/2019/1/11/photo-7-15471997001041823847306.jpg</item>
+        <item>https://saigonangi.com/wp-content/uploads/2020/10/5-1-15.png</item>
+        <item>https://cdn.tgdd.vn/Files/2021/07/02/1365019/an-bao-lau-nay-ban-co-biet-bun-dau-mam-tom-la-dac-san-o-dau-202107021402390507.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
